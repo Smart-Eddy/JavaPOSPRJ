@@ -12,7 +12,7 @@
 </p>
 
  <h4>UML</h4>
-<img src="https://user-images.githubusercontent.com/112805025/229350070-f1c3f525-8a53-46ec-986a-ecb11f9eb43c.png">
+<img src="https://user-images.githubusercontent.com/112805025/229350070-f1c3f525-8a53-46ec-986a-ecb11f9eb43c.png" width="450">
 
  <h4>주요기능</h4>
  <ul class="square">
