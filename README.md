@@ -1,6 +1,6 @@
 # RealPOS
 <h4>자바 콘솔 미니 프로젝트 </h4>
-<h4>식당 POS기를 자바로 만들어 보았습니다 </h4>
+<h4>POS SYSTEM를 자바로 만들어 보았습니다 </h4>
 
 <img src="https://user-images.githubusercontent.com/112805025/229350117-7034a20e-cc73-4f08-ab92-c6bdb814a032.png" width="450">
 <img src="https://user-images.githubusercontent.com/112805025/229350067-ea0c28e2-5725-48b3-aa67-92cfadd10425.png" width="450">
